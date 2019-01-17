@@ -4,7 +4,7 @@ This boilerplate is optimised for my personal Sublime Text 3 workflow.
 It's meant to be used for backend code, no frontend optimisations included.
 
 ```
-npm run install
+npm install
 npm run watch
 ```
 
